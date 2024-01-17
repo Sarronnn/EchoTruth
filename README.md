@@ -2,7 +2,7 @@
 EchoTruth is an innovative technology project focused on distinguishing fact from fiction in today's fast-paced information landscape. Leveraging advanced machine learning techniques, this project aims to develop a reliable fake news detection system, capable of analyzing and verifying the authenticity of news content.
 
 The goal of EchoTruth is to serve as a digital sentinel, promoting the dissemination of accurate and trustworthy information. By filtering out fake news, EchoTruth aspires to foster a more informed and discerning public. This project is crucial in an era where misinformation can spread rapidly, impacting public opinion, decision-making processes, and even democratic institutions.
-EchoTruth: The Reality Echo
+
 
 # Installation
 
