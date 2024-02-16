@@ -1,0 +1,50 @@
+
+
+Evaluation and Feedback
+CMSI 4072 project ~ Spring 2024
+Kalif Byrd, Dev Raiyani, and Sarron Tadesse
+Echo Truth project
+==============================
+
+Software Requirements Specification Document:
+---------------------------------------------
+-- Introduction Section
+   The introduction sections are wonderful!  I'm curious, though about the
+   operating environment.  Will users be required to access the Jupyter or
+   Colab tools to run your software?  If so, will you be providing specific
+   instructions for installation and operation for all platforms?  There are
+   many people who have Windows and/or Linux machines...
+
+-- Functional Requirements
+   A system like this needs a LOT more functional requirements than just 4.
+   Try to come up with more for each of your sub-categories.  For example,
+   will you be developing your own ML model, or using a known one?  If you
+   are doing the second option, you need to specify which one.  If there is
+   documentation for it, section 1.4 should have a link to that.
+
+   Watch out for weasel words like "comprehensive dataset".  What do you
+   mean by that term?  Try to be explicit.
+
+-- Performance Requirements
+   The one requirement here is good, but see if you can think of a few more.
+   It doesn't have to be a lot, just one or two more.  Also, is the "95" a
+   percent?  If so, say so.  Lastly, if it's 95%, how will you test the
+   accuracy of the result to prove it is 95%?  Specify a requirement for it.
+
+   You really don't need to specify the interface, security, or software
+   attribute requirements for this project, but good to see you are thinking
+   about them!
+
+-- Environment Requirements
+   I don't see anything about these in your document.  What system will you
+   develop on?  What system will the user need to run the application when
+   it is deployed?  What are the specifics in terms of memory requirements,
+   processor, graphics processor, operating system versions, etc.?
+
+=============================================================================
+your score:  8% out of 10% which is a B
+
+All in all, not a bad first effort, you just need to fill in more specifics.
+
+Make the changes as suggested above, including many more requirements for
+the second submission and you'll get the full 10% on this document.
