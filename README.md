@@ -4,9 +4,7 @@ EchoTruth is an innovative technology project focused on distinguishing fact fro
 The goal of EchoTruth is to serve as a digital sentinel, promoting the dissemination of accurate and trustworthy information. By filtering out fake news, EchoTruth aspires to foster a more informed and discerning public. This project is crucial in an era where misinformation can spread rapidly, impacting public opinion, decision-making processes, and even democratic institutions.
 
 
-# Installation
 
-TODO: Detailed instructions on how to install any necessary software or dependencies goes here
 
 
 **Instructions on how to use EchoTruth** 
@@ -28,15 +26,10 @@ Overview of the machine learning model(s) used.
 Explanation of the feature extraction process and model training procedure.
 Information about model evaluation metrics and performance.
 
-# Contributing
-Guidelines on how others can contribute to the EchoTruth project.
-Contact information or steps for submitting pull requests or reporting issues.
-
-
 # List of contributors and authors of the EchoTruth project.
 - Sarron Tadesse
 - Kalif Byrd
-
+- Dev Raiyanni 
 # Acknowledgments
 
 # License
