@@ -48,3 +48,10 @@ All in all, not a bad first effort, you just need to fill in more specifics.
 
 Make the changes as suggested above, including many more requirements for
 the second submission and you'll get the full 10% on this document.
+
+=============================================================================
+SECOND EVALUATION:
+
+your score:  8% out of 10% which is an A-plus
+
+No updates made to SRS document.
