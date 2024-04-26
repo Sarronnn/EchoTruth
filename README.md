@@ -1,5 +1,8 @@
 # EchoTruth
 
+[Poster Board-2.pdf](https://github.com/Sarronnn/EchoTruth/files/15124208/Poster.Board-2.pdf)
+
+
 EchoTruth is an exciting machine learning adventure aimed at separating truth from fiction in our rapidly evolving information era. Using cutting-edge machine learning strategies, our goal is to create a dependable fake news detector that can scrutinize news content and verify its authenticity with precision.
 
 In a time where misinformation can quickly influence public opinion, sway decision-making, and even affect democratic processes, the need for such a tool has never been more critical. Our plan is to develop a highly accurate model and then roll it out for users, empowering them to navigate the media landscape with confidence and discernment.
