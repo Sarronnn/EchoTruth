@@ -1,7 +1,7 @@
 # EchoTruth
 
 
-    <img width="630" alt="Screenshot 2024-04-25 at 6 35 22 PM" src="https://github.com/Sarronnn/EchoTruth/assets/89826597/2ba16243-a7f9-42cb-9bae-253ec32fc263">
+<img width="630" alt="Screenshot 2024-04-25 at 6 35 22 PM" src="https://github.com/Sarronnn/EchoTruth/assets/89826597/2ba16243-a7f9-42cb-9bae-253ec32fc263">
 
 
 EchoTruth is an exciting machine learning adventure aimed at separating truth from fiction in our rapidly evolving information era. Using cutting-edge machine learning strategies, our goal is to create a dependable fake news detector that can scrutinize news content and verify its authenticity with precision.
